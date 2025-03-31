@@ -13,3 +13,20 @@
     ███   GOT YA   ███
    ████████████████
 
+All your files have been encrypted!
+ 
+To recover your data, you must pay a ransom.
+Do NOT attempt to rename the encrypted files or use any third-party recovery tools – you risk permanent data loss.
+ 
+Your unique ID: [SIMULATED-ID-123456]
+ 
+To get your files back:
+1. Contact us at: simulated-support@example.com
+2. Send your unique ID
+3. Follow the payment instructions we provide
+ 
+If we do not hear from you within 72 hours, your files will be permanently lost.
+ 
+This is a simulation for security awareness and testing purposes. No data has actually been harmed.
+ 
+- Simulated Ransomware Team
